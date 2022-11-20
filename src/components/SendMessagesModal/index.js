@@ -31,7 +31,7 @@ export default function SendMessagesModal({
 
 	const onSendEmail = async () => {
 		const requestData = {
-			email: "contact@ajanth.dev",
+			email: "smartatwal@icloud.com",
 			name: "Arjun",
 			role: "SDE 1",
 			subject: subject,
