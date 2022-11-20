@@ -42,7 +42,7 @@ export default function Home() {
 	return (
 		<Box width="100vw">
 			<Head>
-				<title>Mass Connect</title>
+				<title>my Apply</title>
 				<meta
 					name="description"
 					content="Mass email employees at your dream company!"

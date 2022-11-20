@@ -24,7 +24,7 @@ export default function Navbar({ onSignIn, onSignOut, isLoggedIn }) {
 							router.push("/");
 						}}
 					>
-						<Heading size="lg">MassConnect</Heading>
+						<Heading size="lg">myApply</Heading>
 					</ListItem>
 					{!isLoggedIn && (
 						<Button
