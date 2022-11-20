@@ -18,6 +18,7 @@ export default function Home() {
 		setIsLoggedIn(false);
 	};
 
+	// FLASK TEST (WORKS, BUT IMPLEMENT IN THE FUTURE)
 	// const fetchAmazonEmployees = async () => {
 	// 	const response = await fetch(
 	// 		"http://127.0.0.1:5000/amazon/software-engineer"
